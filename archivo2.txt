@@ -1,0 +1,1 @@
+GitHub es una página que ofrece un grupo de servicios que facilitan el uso de Git, como por ejemplo hosting de proyectos, facilidades de colaboración, reviews de código, perfiles personales, pull requests, issues, etc.
